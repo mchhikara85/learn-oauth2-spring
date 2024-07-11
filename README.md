@@ -1,1 +1,1 @@
-# learn sso oAuth 2 using keycloak
+# learn SSO oAuth 2 using keycloak
