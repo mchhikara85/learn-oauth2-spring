@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.manjeet</groupId>
-	<artifactId>learn-sso</artifactId>
+	<artifactId>learn-outh2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learn-sso</name>
 	<description>Demo project for Spring Boot</description>
