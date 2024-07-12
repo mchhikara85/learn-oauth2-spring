@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnSsoApplication {
+public class OAuth2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnSsoApplication.class, args);
+		SpringApplication.run(OAuth2Application.class, args);
 	}
 
 }
