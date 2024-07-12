@@ -1,4 +1,4 @@
-package com.manjeet.learnsso.model;
+package com.manjeet.oauth2.model;
 
 import lombok.Data;
 
